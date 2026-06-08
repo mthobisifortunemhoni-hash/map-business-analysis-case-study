@@ -10,7 +10,7 @@
 * Define operational and service requirements
 * Propose a future-state MPS solution (TO-BE)
 * Support vendor evaluation and service design
-* 
+  
 # Scope
 
 # This includes:
