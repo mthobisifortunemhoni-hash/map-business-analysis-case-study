@@ -1,4 +1,4 @@
-What technology must support the solution
+What technology must support the solution?
 
 Integration with identity and access management systems.
 Compatibility with Windows, macOS and Linux.
